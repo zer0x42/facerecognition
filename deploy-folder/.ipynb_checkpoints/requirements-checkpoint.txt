@@ -1,0 +1,7 @@
+Keras
+tensorflow
+Pandas
+Pillow
+numpy
+sklearn
+mtcnn
